@@ -11,7 +11,6 @@ html {
     width: 270px;
     margin: 20px auto;
     padding: 0 7px;
-    border-radius: 3px;
 }
 
 * {
@@ -75,29 +74,4 @@ p {
     margin: -7px -2px;
 }
 
-.medium {
-    height: 5px;
-}
-
-.right {
-    justify-content: flex-end;
-}
-
-.indent {
-    margin-left: 1em;
-}
-
-.daily-value p:not(.no-divider) {
-    border-bottom: 1px solid #888989;
-}
-
-.double-indent {
-    margin-left: 2em;
-}
-
-.note {
-    margin: 5px 0;
-    font-size: .6rem;
-    padding: 0 8px;
-    text-indent: -8px;
-}
+.medium {}

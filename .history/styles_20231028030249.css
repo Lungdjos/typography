@@ -11,7 +11,7 @@ html {
     width: 270px;
     margin: 20px auto;
     padding: 0 7px;
-    border-radius: 3px;
+    border
 }
 
 * {
@@ -93,11 +93,4 @@ p {
 
 .double-indent {
     margin-left: 2em;
-}
-
-.note {
-    margin: 5px 0;
-    font-size: .6rem;
-    padding: 0 8px;
-    text-indent: -8px;
 }
